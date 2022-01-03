@@ -1,0 +1,34 @@
+# CMake
+cmake-build-debug/
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+.idea/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Ruby plugin and RubyMine
+/.rakeTasks
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Other stuff
+data_proc/*
+TODO
+background_badge_fns.js
+
+key.pem
+node_modules/
